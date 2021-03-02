@@ -26,4 +26,4 @@ for each of the libraries.
 
 No change is needed to the board info etc, just compile and upload to the board and you're done
 
-You can check joy.cpl to make sure that your controller is working properly - the device will be named "Arduino Micro
+You can check joy.cpl to make sure that your controller is working properly - the device will be named "Arduino Micro"
